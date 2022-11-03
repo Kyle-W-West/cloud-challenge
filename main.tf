@@ -10,3 +10,5 @@ terraform {
 provider "azurerm" {
   features{}
 }
+
+# Put resources below
